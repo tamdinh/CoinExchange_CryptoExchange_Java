@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.21.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - '@antv/data-set > lodash':
+        patched: '2021-07-01T17:42:29.048Z'
+    - '@antv/data-set > dagre > lodash':
+        patched: '2021-07-01T17:42:29.048Z'
+    - viser-vue > viser > lodash:
+        patched: '2021-07-01T17:42:29.048Z'
+    - '@antv/data-set > dagre > graphlib > lodash':
+        patched: '2021-07-01T17:42:29.048Z'
+    - viser-vue > viser > @antv/g2 > lodash:
+        patched: '2021-07-01T17:42:29.048Z'
+    - viser-vue > viser > @antv/g2 > @antv/g > lodash:
+        patched: '2021-07-01T17:42:29.048Z'
