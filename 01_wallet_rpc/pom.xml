@@ -35,7 +35,7 @@
     </parent>
     <properties>
         <project-version>1.2</project-version>
-        <commons-lang3.version>3.4</commons-lang3.version>
+        <commons-lang3.version>3.12.0</commons-lang3.version>
         <spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
     </properties>
     <dependencyManagement>
