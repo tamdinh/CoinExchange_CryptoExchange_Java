@@ -15,8 +15,13 @@
   },
   "dependencies": {
     "html2canvas": "^1.0.0-rc.3",
+<<<<<<< HEAD
+    "iview": "^3.1.0",
+    "jquery": "^3.6.0",
+=======
     "iview": "^3.5.4",
     "jquery": "^3.3.1",
+>>>>>>> master
     "json-server": "^0.12.1",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
