@@ -31,7 +31,7 @@
     "iview-area": "^1.5.12",
     "jquery": "^3.5.0",
     "js-cookie": "^2.2.0",
-    "js-file-download": "^0.4.1",
+    "js-file-download": "^0.4.12",
     "rasterizehtml": "^1.2.4",
     "simplemde": "^1.11.2",
     "smeditor": "^0.1.19",
