@@ -42,8 +42,12 @@
 =======
     "vue-resource": "^1.5.2",
     "vue-router": "^3.0.1",
+<<<<<<< HEAD
+    "vuex": "^3.6.2"
+=======
 >>>>>>> master
     "vuex": "^3.0.1"
+>>>>>>> master
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
