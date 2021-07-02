@@ -35,7 +35,7 @@
     "rasterizehtml": "^1.2.4",
     "simplemde": "^1.11.2",
     "smeditor": "^0.1.19",
-    "sortablejs": "^1.7.0",
+    "sortablejs": "^1.13.0",
     "time-formater": "^1.0.1",
     "tinymce": "^5.7.1",
     "viser-vue": "^2.2.3",
