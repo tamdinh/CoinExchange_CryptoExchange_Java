@@ -39,14 +39,14 @@
 		<project.build.jdk_version>1.8</project.build.jdk_version>
 		<!-- spring -->
 		<spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
-<<<<<<< HEAD
-<<<<<<< HEAD
-		<spring-boot_version>1.5.21.RELEASE</spring-boot_version>
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+		<spring-boot_version>2.1.15.RELEASE</spring-boot_version>
 =======
 		<spring-boot_version>2.1.15.RELEASE</spring-boot_version>
 >>>>>>> 2fac61451e706d98fa898852d0a0e2b3a2b90399
 =======
-		<spring-boot_version>1.5.15.RELEASE</spring-boot_version>
+		<spring-boot_version>2.1.15.RELEASE</spring-boot_version>
 >>>>>>> master
 		<!-- 数据库连接 -->
 		<druid_version>1.1.9</druid_version>
